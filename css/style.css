@@ -1,0 +1,40 @@
+.container{
+	width: 1170px;
+	margin: 100px auto;
+}
+.title-h3 {
+	font-size:22px;
+	color: #000;
+}
+.wrapper{
+	margin-top: 30px;
+}
+.wrapper-box{
+	display: inline-block;
+	width: 570px;
+	background: #F2F2F2;
+	height: 225px;
+	padding: 15px 30px;
+	box-sizing: border-box;
+	border: 1px solid  #F2F2F2;
+	transition: 0.2s;
+}
+.wrapper-box:hover{
+	border: 1px solid blue;
+}
+.wrapper-box h4 {
+	font-size: 22px;
+	color: #3D58A6;
+}
+.yuti{
+	margin-top: 10px;
+}
+.yuti img{
+	height: 100px;
+	vertical-align: top;
+	margin-right: 15px;
+}
+.yuti p{
+	width: 400px;
+	display: inline-block;
+}
